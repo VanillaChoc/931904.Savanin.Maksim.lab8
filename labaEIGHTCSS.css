@@ -1,0 +1,31 @@
+
+form{
+    margin: 0;
+
+}
+button{
+    margin: 0;  
+}
+body{
+    margin: 0;
+}
+.ForForms{
+    margin:0;
+}
+form{
+    
+    margin: 0;
+    float: left;
+}
+.cclear{
+    clear:both;
+}
+.bbbbutton{
+    float: left;
+}
+.NoDisp{
+    display: none;
+}
+input{
+    float: left;
+}
